@@ -1,1 +1,2 @@
-# ECommerce-SQL-Capstone-Project
+# ECommerce Customer Churn - SQL Capstone Project
+The E‑Commerce Customer Churn – SQL Capstone Project focuses on analyzing customer transaction data to identify churn patterns and retention opportunities using SQL. Raw datasets were cleaned and transformed with SQL queries, handling duplicates, missing values, and inconsistent records to ensure accuracy. Advanced SQL techniques such as joins, aggregations, subqueries, and window functions were applied to engineer features like purchase frequency, recency, and loyalty scores. The final reports highlight churn rates, risk segments, and customer behavior trends, providing actionable insights for improving retention strategies and supporting data‑driven business decisions.
